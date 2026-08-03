@@ -1,9 +1,9 @@
 # 💻 Olá, sou a Laion!
 
-Sou desenvolvedora Back-End, formada em Análise e Desenvolvimento de Sistemas (ADS).
-Atualmente estou me aprofundando em Java.
+Pretendo ser desenvolvedor Back-End, formado em Análise e Desenvolvimento de Sistemas.
+Atualmente estou me aprofundando na linguagem Java.
 
-🎯 **Objetivo:** Busco oportunidades como Desenvolvedora Back-End Júnior, ou Estágio em Desenvolvimento de Software, onde eu possa contribuir e desenvolver uma carreira profissional.
+🎯 **Objetivo:** Busco oportunidades como Desenvolvedor Back-End Júnior, ou Estágio em Desenvolvimento de Software, onde eu possa contribuir e desenvolver uma carreira profissional.
 
 ## 🚀 Tecnologias
 
@@ -40,7 +40,7 @@ Atualmente estou me aprofundando em Java.
 - Versionamento de Código com Git
 - Testes Unitários Básicos
 - Depuração de Código (Debug)
-- Noções de Containerização com Docker
+- Docker
 - Facilidade e Vontade de Aprender
 
 ### ✅ Qualidade & Colaboração
@@ -54,14 +54,9 @@ Atualmente estou me aprofundando em Java.
 - Colaboração em equipes ágeis
 - Versionamento de código com Git e GitHub
 
-## 🌱 Em constante evolução
-
-Acredito que Desenvolvimento de Software e Qualidade caminham juntos. Estou sempre buscando aprender novas tecnologias, desenvolver projetos práticos e criar soluções que proporcionem uma excelente experiência ao usuário, unindo desenvolvimento, qualidade de software e usabilidade.
-
-> 💡 *Todo sistema grandioso começa com uma linha de código bem pensada. Acredito na força do back-end como o alicerce invisível que sustenta grandes experiências — e é isso que me move a evoluir, um commit de cada vez.*
 
 ## 📫 Como me encontrar
 
 💼 **LinkedIn:** [linkedin.com/in/laion-a-60493bb0](https://www.linkedin.com/in/laion-a-60493bb0/)
 💻 **GitHub:** [github.com/Laion-Adamo](https://github.com/Laion-Adamo)
-📧 **E-mail:** laionbrek@gmail.com
+📧 **E-mail:** laionadamo@gmail.com
