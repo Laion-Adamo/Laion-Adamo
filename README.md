@@ -57,6 +57,6 @@ Atualmente estou me aprofundando na linguagem Java.
 
 ## 📫 Como me encontrar
 
-💼 **LinkedIn:** [linkedin.com/in/laion-a-60493bb0](https://www.linkedin.com/in/laion-a-60493bb0/)
+💼 **LinkedIn:** [linkedin.com/in/laion-a-60493bb0](https://www.linkedin.com/in/laionadamo/)
 💻 **GitHub:** [github.com/Laion-Adamo](https://github.com/Laion-Adamo)
 📧 **E-mail:** laionadamo@gmail.com
